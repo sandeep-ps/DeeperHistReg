@@ -274,9 +274,9 @@ However, please note that to use the the full funcionality (that does depend on 
 # Publications
 
 If you found the source code useful, please cite:
- * The description of the DeeperHistReg Library - [DeeperHistReg](TODO) - Will Be Available Soon
+ * The description of the DeeperHistReg Library - [DeeperHistReg](https://arxiv.org/abs/2404.14434)
  * The articles discussing the implemented methods:
-      * [Hybrid Deep Learning-based WSI Registration](TODO) - Will Be Available Soon
+      * [RegWSI](https://www.sciencedirect.com/science/article/pii/S0169260724001834)
       * [DeepHistReg](https://www.sciencedirect.com/science/article/pii/S0169260720316321)
 
 You may be also interested in:
@@ -286,7 +286,7 @@ You may be also interested in:
 
 # Acknowledgements
 
-This project has received funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 945358. This Joint Undertaking receives support from the European Union's Horizon 2020 research and innovation program and EFPIA, Belgium (www.imi.europe.eu).
+This project has received partial funding from the Innovative Medicines Initiative 2 Joint Undertaking under grant agreement No 945358. This Joint Undertaking receives support from the European Union's Horizon 2020 research and innovation program and EFPIA, Belgium (www.imi.europe.eu).
 
 We gratefully acknowledge Poland’s high-performance computing infrastructure PLGrid (HPC Centers: ACK Cyfronet AGH) for providing computer facilities and support within computational grant no. PLG/2023/016239.
 
